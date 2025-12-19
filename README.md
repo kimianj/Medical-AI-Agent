@@ -17,7 +17,9 @@ The system demonstrates:
 
 ⚠️ **Disclaimer: This is a prototype for demonstration purposes only and is not intended for real medical use.**
 
-▶️ How to Run the Prototype
+<br />
+
+▶️ **How to Run the Prototype**
 
 This prototype is intentionally self-contained and implemented in a single React component (App.jsx) for ease of review.
 
@@ -36,7 +38,7 @@ npm start
 ```bash
 http://localhost:3000
 ```
-
+<br />
 🧪 **Demo Scenarios Included**
 
 The UI includes one-click demo buttons for:
@@ -47,13 +49,22 @@ The UI includes one-click demo buttons for:
 <li>🚨 Emergency case (e.g., chest pain)</li>
 <img src= 'https://github.com/kimianj/Medical-AI-Agent/blob/main/emergency.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 </ul>
+<br />
 
 **These demonstrate**
 <ul>
 <li>Correct triage classification</li>
 <li>Safety-first escalation</li>
 <li>Required linguistic constraints</li>
-</ul>
+
+
+
+📄 **Documentation**
+
+**System Design & Validation:** [System-Design.pdf](https://github.com/kimianj/Medical-AI-Agent/blob/main/AI_Agent.pdf)
+
+**Prototype Code:** [App.jsx](https://github.com/kimianj/Medical-AI-Agent/blob/main/src/App.jsx)
+
 
 
 
