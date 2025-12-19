@@ -46,6 +46,8 @@ The UI includes one-click demo buttons for:
 <li>😷 Mild case (e.g., neck pain + fever)</li>
 <img src= 'https://github.com/kimianj/Medical-AI-Agent/blob/main/mild.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<br />
+
 <li>🚨 Emergency case (e.g., chest pain)</li>
 <img src= 'https://github.com/kimianj/Medical-AI-Agent/blob/main/emergency.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 </ul>
@@ -56,9 +58,9 @@ The UI includes one-click demo buttons for:
 <li>Correct triage classification</li>
 <li>Safety-first escalation</li>
 <li>Required linguistic constraints</li>
+</ul>
 
-
-
+<br />
 📄 **Documentation**
 
 **System Design & Validation:** [System-Design.pdf](https://github.com/kimianj/Medical-AI-Agent/blob/main/AI_Agent.pdf)
