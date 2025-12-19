@@ -61,7 +61,7 @@ The UI includes one-click demo buttons for:
 </ul>
 
 <br />
-📄 **Documentation**
+**📄 Documentation**
 
 **System Design & Validation:** [System-Design.pdf](https://github.com/kimianj/Medical-AI-Agent/blob/main/AI_Agent.pdf)
 
