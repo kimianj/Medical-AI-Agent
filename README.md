@@ -43,7 +43,7 @@ http://localhost:3000
 
 The UI includes one-click demo buttons for:
 <ul>
-<li>😷 Mild case (e.g., neck pain + fever)</li>
+<li>😷 Mild case (e.g., headache)</li>
 <img src= 'https://github.com/kimianj/Medical-AI-Agent/blob/main/mild.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <br />
